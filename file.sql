@@ -12,7 +12,7 @@ int my_strlen(char *s)
    return (p - s);
 }
 
-int main(void1)
+int main(void)
 {
    int i;
    char *s[] =
